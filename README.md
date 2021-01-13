@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **sunyoe/sunyoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Sunyoe.
+### I'm Sunyoe.
 
 - Junior: [iDesignLab - ME](http://idesignlab.sjtu.edu.cn/)
 - Major: Mechanical engineering.
